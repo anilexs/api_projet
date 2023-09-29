@@ -1,0 +1,13 @@
+###
+POST http://localhost/api_projet/
+
+{
+    "nom": "Iphone 14 Pro2", 
+    "description": "Téléphone de Wassila", 
+    "prix": "1300", 
+    "categories_id": 2, 
+    "action": "produits"
+}
+
+###
+GET http://localhost/api_projet/
